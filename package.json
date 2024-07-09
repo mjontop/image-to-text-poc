@@ -1,0 +1,15 @@
+{
+  "name": "learn-b",
+  "module": "index.ts",
+  "type": "module",
+  "devDependencies": {
+    "@types/bun": "latest"
+  },
+  "peerDependencies": {
+    "typescript": "^5.0.0"
+  },
+  "dependencies": {
+    "tesseract.js": "^5.1.0",
+    "text-from-image": "^1.1.1"
+  }
+}
